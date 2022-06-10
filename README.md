@@ -14,7 +14,7 @@
 
 ## Article
 
-[Build A Vue Dashboard Using Cube.js](https://www.xlbd.me/posts/2019-07-27-build-vue-dashboard-using-cubejs.html)
+[Build A Vue Dashboard Using Cube.js](https://xlbd.me/posts/build-vue-dashboard-using-cubejs.html)
 
 ## Project setup
 ```
